@@ -2,6 +2,10 @@
 
 This folder contains the scripts run during the PixyBot race on **20 April 2023**.
 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/mSpLFaTugbU)" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ## How to Use This Folder
 
 1. Navigate to this folder on your Raspberry Pi.
