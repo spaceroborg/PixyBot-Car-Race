@@ -2,7 +2,7 @@
 
 This folder contains the scripts run during the PixyBot race on 20 April 2023.
 
-[![Watch the race video](thumbnail.jpg)](https://youtu.be/mSpLFaTugbU)
+[![Watch the race video](thumbnail.png)](https://youtu.be/mSpLFaTugbU)
 
 ## How to Use This Folder
 
