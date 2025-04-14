@@ -1,6 +1,6 @@
 # PixyBot Car Race Challenge
 
-This folder contains the scripts run during the PixyBot race on 20 April 2023.
+This folder contains the scripts run during the PixyBot race on 20 April 2023. Watch the video below:
 
 [![Watch the race video](thumbnail.png)](https://youtu.be/mSpLFaTugbU)
 
